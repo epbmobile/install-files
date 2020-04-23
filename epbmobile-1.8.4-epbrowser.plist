@@ -11,14 +11,14 @@
 	                   <key>kind</key>
 	                   <string>software-package</string>
 	                   <key>url</key>
-	                   <string>http://www.epbchina.com/install-files/epbmobile-1.10.7-ios.ipa</string>
+	                   <string>https://www.epbrowser.com/install-files/epbmobile-1.8.4-ios.ipa</string>
 	               </dict>
 	           </array><key>metadata</key>
 	           <dict>
 	               <key>bundle-identifier</key>
 	               <string>app.epbmobile.form2</string>
 	               <key>bundle-version</key>
-	               <string>1.10.7</string>
+	               <string>1.8.4</string>
 	               <key>kind</key>
 	               <string>software</string>
 	               <key>subtitle</key>
