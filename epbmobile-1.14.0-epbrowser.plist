@@ -16,7 +16,7 @@
 	           </array><key>metadata</key>
 	           <dict>
 	               <key>bundle-identifier</key>
-	               <string>app.epbmobile.form2</string>
+	               <string>com.epbrowser.mobile</string>
 	               <key>bundle-version</key>
 	               <string>1.14.0</string>
 	               <key>kind</key>

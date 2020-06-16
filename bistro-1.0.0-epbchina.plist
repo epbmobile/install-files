@@ -11,14 +11,14 @@
 	                   <key>kind</key>
 	                   <string>software-package</string>
 	                   <key>url</key>
-	                   <string>https://www.epbchina.com/install-files/epbmobile-1.14.0-ios.ipa</string>
+	                   <string>https://www.epbchina.com/install-files/bistro-1.0.0-ios.ipa</string>
 	               </dict>
 	           </array><key>metadata</key>
 	           <dict>
 	               <key>bundle-identifier</key>
-	               <string>com.epbrowser.mobile</string>
+	               <string>app.epbmobile.bistro</string>
 	               <key>bundle-version</key>
-	               <string>1.14.0</string>
+	               <string>1.0.0</string>
 	               <key>kind</key>
 	               <string>software</string>
 	               <key>subtitle</key>
