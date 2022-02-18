@@ -11,14 +11,14 @@
 	                   <key>kind</key>
 	                   <string>software-package</string>
 	                   <key>url</key>
-	                   <string>https://www.epbchina.com/install-files/epbmobile-912-ios.ipa</string>
+	                   <string>https://www.epbchina.com/install-files/epbmobile-913-ios.ipa</string>
 	               </dict>
 	           </array><key>metadata</key>
 	           <dict>
 	               <key>bundle-identifier</key>
 	               <string>com.epbrowser.mobile</string>
 	               <key>bundle-version</key>
-	               <string>912</string>
+	               <string>913</string>
 	               <key>kind</key>
 	               <string>software</string>
 	               <key>subtitle</key>
