@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "./static/js/app.53cf6e86.chunk.js",
-    "app.js.map": "./static/js/app.53cf6e86.chunk.js.map",
+    "app.js": "./static/js/app.b439fe47.chunk.js",
+    "app.js.map": "./static/js/app.b439fe47.chunk.js.map",
     "runtime~app.js": "./static/js/runtime~app.318494c4.js",
     "runtime~app.js.map": "./static/js/runtime~app.318494c4.js.map",
-    "static/js/2.6755e57a.chunk.js": "./static/js/2.6755e57a.chunk.js",
-    "static/js/2.6755e57a.chunk.js.map": "./static/js/2.6755e57a.chunk.js.map",
+    "static/js/2.269abe9f.chunk.js": "./static/js/2.269abe9f.chunk.js",
+    "static/js/2.269abe9f.chunk.js.map": "./static/js/2.269abe9f.chunk.js.map",
     "fonts/AntDesign.ttf": "././fonts/AntDesign.ttf",
     "fonts/AvenirNextLTPro-Bold.otf": "././fonts/AvenirNextLTPro-Bold.otf",
     "fonts/AvenirNextLTPro-Demi.otf": "././fonts/AvenirNextLTPro-Demi.otf",
@@ -28,7 +28,7 @@
     "index.html": "./index.html",
     "manifest.json": "./manifest.json",
     "serve.json": "./serve.json",
-    "static/js/2.6755e57a.chunk.js.LICENSE.txt": "./static/js/2.6755e57a.chunk.js.LICENSE.txt",
+    "static/js/2.269abe9f.chunk.js.LICENSE.txt": "./static/js/2.269abe9f.chunk.js.LICENSE.txt",
     "static/media/a001.jpg": "./static/media/a001.04d98032.jpg",
     "static/media/a002.jpg": "./static/media/a002.1f78d0a7.jpg",
     "static/media/a003.jpg": "./static/media/a003.f690692c.jpg",
@@ -55,7 +55,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.318494c4.js",
-    "static/js/2.6755e57a.chunk.js",
-    "static/js/app.53cf6e86.chunk.js"
+    "static/js/2.269abe9f.chunk.js",
+    "static/js/app.b439fe47.chunk.js"
   ]
 }
