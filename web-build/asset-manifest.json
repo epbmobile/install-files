@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.js": "./static/js/main.0ac24100.js",
-    "static/js/203.7563bd84.js": "./static/js/203.7563bd84.js",
-    "static/media/MaterialCommunityIcons.ttf": "./static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
-    "static/media/Fontisto.ttf": "./static/media/Fontisto.c0edd68811e0237502fe.ttf",
-    "static/media/Ionicons.ttf": "./static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
-    "static/media/MaterialIcons.ttf": "./static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
-    "static/media/FontAwesome.ttf": "./static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
-    "static/media/VarelaRound-Regular.ttf": "./static/media/VarelaRound-Regular.6b0ad79431843e696f58.ttf",
-    "static/media/AntDesign.ttf": "./static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
-    "static/media/Feather.ttf": "./static/media/Feather.0f5d9cede2e831f3fc80.ttf",
-    "static/media/logo-small-light.png": "./static/media/logo-small-light.2b420db167ebc1d82406.png",
-    "favicon.ico": "./favicon.ico",
-    "index.html": "./index.html",
-    "static/media/paynow.png": "./static/media/paynow.c9b5960d0592dd95048e.png",
-    "favicon-32.png": "./favicon-32.png",
-    "favicon-16.png": "./favicon-16.png",
-    "manifest.json": "./manifest.json",
-    "serve.json": "./serve.json",
-    "main.0ac24100.js.map": "./static/js/main.0ac24100.js.map",
-    "203.7563bd84.js.map": "./static/js/203.7563bd84.js.map"
+    "main.js": "/static/js/main.4c87c999.js",
+    "static/js/874.c183b13c.js": "/static/js/874.c183b13c.js",
+    "static/media/MaterialCommunityIcons.ttf": "/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/wall-culina.png": "/static/media/wall-culina.d476b2024fc8aa2ff775.png",
+    "static/media/MaterialIcons.ttf": "/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
+    "static/media/AntDesign.ttf": "/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "static/media/AvenirNextLTPro-Bold.otf": "/static/media/AvenirNextLTPro-Bold.711a4eb654bf1139f123.otf",
+    "static/media/AvenirNextLTPro-Demi.otf": "/static/media/AvenirNextLTPro-Demi.2a0cec709a4166a967dc.otf",
+    "static/media/AvenirNextLTPro-Regular.otf": "/static/media/AvenirNextLTPro-Regular.94f2f163d4b698242fef.otf",
+    "static/media/AvenirNextLTPro-It.otf": "/static/media/AvenirNextLTPro-It.3e062c6caf04ecafa42c.otf",
+    "static/media/logo-culina.png": "/static/media/logo-culina.3bb74266a2d330c43d68.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.4c87c999.js.map": "/static/js/main.4c87c999.js.map",
+    "874.c183b13c.js.map": "/static/js/874.c183b13c.js.map"
   },
   "entrypoints": [
-    "static/js/203.7563bd84.js",
-    "static/js/main.0ac24100.js"
+    "static/js/874.c183b13c.js",
+    "static/js/main.4c87c999.js"
   ]
 }
