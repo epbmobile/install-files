@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/static/js/main.4c87c999.js",
-    "static/js/874.c183b13c.js": "/static/js/874.c183b13c.js",
-    "static/media/MaterialCommunityIcons.ttf": "/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
-    "static/media/wall-culina.png": "/static/media/wall-culina.d476b2024fc8aa2ff775.png",
-    "static/media/MaterialIcons.ttf": "/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
-    "static/media/AntDesign.ttf": "/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
-    "static/media/AvenirNextLTPro-Bold.otf": "/static/media/AvenirNextLTPro-Bold.711a4eb654bf1139f123.otf",
-    "static/media/AvenirNextLTPro-Demi.otf": "/static/media/AvenirNextLTPro-Demi.2a0cec709a4166a967dc.otf",
-    "static/media/AvenirNextLTPro-Regular.otf": "/static/media/AvenirNextLTPro-Regular.94f2f163d4b698242fef.otf",
-    "static/media/AvenirNextLTPro-It.otf": "/static/media/AvenirNextLTPro-It.3e062c6caf04ecafa42c.otf",
-    "static/media/logo-culina.png": "/static/media/logo-culina.3bb74266a2d330c43d68.png",
-    "favicon.ico": "/favicon.ico",
-    "index.html": "/index.html",
-    "favicon-32.png": "/favicon-32.png",
-    "favicon-16.png": "/favicon-16.png",
-    "manifest.json": "/manifest.json",
-    "serve.json": "/serve.json",
-    "main.4c87c999.js.map": "/static/js/main.4c87c999.js.map",
-    "874.c183b13c.js.map": "/static/js/874.c183b13c.js.map"
+    "main.js": "./static/js/main.6f89cb0c.js",
+    "static/js/874.c183b13c.js": "./static/js/874.c183b13c.js",
+    "static/media/MaterialCommunityIcons.ttf": "./static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/wall-culina.png": "./static/media/wall-culina.d476b2024fc8aa2ff775.png",
+    "static/media/MaterialIcons.ttf": "./static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
+    "static/media/AntDesign.ttf": "./static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "static/media/AvenirNextLTPro-Bold.otf": "./static/media/AvenirNextLTPro-Bold.711a4eb654bf1139f123.otf",
+    "static/media/AvenirNextLTPro-Demi.otf": "./static/media/AvenirNextLTPro-Demi.2a0cec709a4166a967dc.otf",
+    "static/media/AvenirNextLTPro-Regular.otf": "./static/media/AvenirNextLTPro-Regular.94f2f163d4b698242fef.otf",
+    "static/media/AvenirNextLTPro-It.otf": "./static/media/AvenirNextLTPro-It.3e062c6caf04ecafa42c.otf",
+    "static/media/logo-culina.png": "./static/media/logo-culina.3bb74266a2d330c43d68.png",
+    "favicon.ico": "./favicon.ico",
+    "index.html": "./index.html",
+    "favicon-32.png": "./favicon-32.png",
+    "favicon-16.png": "./favicon-16.png",
+    "manifest.json": "./manifest.json",
+    "serve.json": "./serve.json",
+    "main.6f89cb0c.js.map": "./static/js/main.6f89cb0c.js.map",
+    "874.c183b13c.js.map": "./static/js/874.c183b13c.js.map"
   },
   "entrypoints": [
     "static/js/874.c183b13c.js",
-    "static/js/main.4c87c999.js"
+    "static/js/main.6f89cb0c.js"
   ]
 }
