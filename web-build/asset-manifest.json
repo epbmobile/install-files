@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "./static/js/main.6f89cb0c.js",
-    "static/js/874.c183b13c.js": "./static/js/874.c183b13c.js",
+    "main.js": "./static/js/main.a13feaca.js",
+    "static/js/874.a4f23057.js": "./static/js/874.a4f23057.js",
     "static/media/MaterialCommunityIcons.ttf": "./static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/wall-culina.png": "./static/media/wall-culina.d476b2024fc8aa2ff775.png",
     "static/media/MaterialIcons.ttf": "./static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
@@ -13,15 +13,16 @@
     "static/media/logo-culina.png": "./static/media/logo-culina.3bb74266a2d330c43d68.png",
     "favicon.ico": "./favicon.ico",
     "index.html": "./index.html",
+    "static/media/login-culina.png": "./static/media/login-culina.1dd2ed14987941ab51db.png",
     "favicon-32.png": "./favicon-32.png",
     "favicon-16.png": "./favicon-16.png",
     "manifest.json": "./manifest.json",
     "serve.json": "./serve.json",
-    "main.6f89cb0c.js.map": "./static/js/main.6f89cb0c.js.map",
-    "874.c183b13c.js.map": "./static/js/874.c183b13c.js.map"
+    "main.a13feaca.js.map": "./static/js/main.a13feaca.js.map",
+    "874.a4f23057.js.map": "./static/js/874.a4f23057.js.map"
   },
   "entrypoints": [
-    "static/js/874.c183b13c.js",
-    "static/js/main.6f89cb0c.js"
+    "static/js/874.a4f23057.js",
+    "static/js/main.a13feaca.js"
   ]
 }
