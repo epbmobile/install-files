@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "./static/js/main.a13feaca.js",
+    "main.js": "./static/js/main.0b67f122.js",
     "static/js/874.a4f23057.js": "./static/js/874.a4f23057.js",
     "static/media/MaterialCommunityIcons.ttf": "./static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/wall-culina.png": "./static/media/wall-culina.d476b2024fc8aa2ff775.png",
@@ -18,11 +18,11 @@
     "favicon-16.png": "./favicon-16.png",
     "manifest.json": "./manifest.json",
     "serve.json": "./serve.json",
-    "main.a13feaca.js.map": "./static/js/main.a13feaca.js.map",
+    "main.0b67f122.js.map": "./static/js/main.0b67f122.js.map",
     "874.a4f23057.js.map": "./static/js/874.a4f23057.js.map"
   },
   "entrypoints": [
     "static/js/874.a4f23057.js",
-    "static/js/main.a13feaca.js"
+    "static/js/main.0b67f122.js"
   ]
 }
