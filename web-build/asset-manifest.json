@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.js": "./static/js/main.0b67f122.js",
-    "static/js/874.a4f23057.js": "./static/js/874.a4f23057.js",
+    "main.js": "./static/js/main.b9da2a30.js",
+    "static/js/346.41b2c321.js": "./static/js/346.41b2c321.js",
     "static/media/MaterialCommunityIcons.ttf": "./static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
-    "static/media/wall-culina.png": "./static/media/wall-culina.d476b2024fc8aa2ff775.png",
+    "static/media/wall-culina.jpg": "./static/media/wall-culina.dc354fa0810bd9480ed8.jpg",
     "static/media/MaterialIcons.ttf": "./static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
     "static/media/AntDesign.ttf": "./static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
     "static/media/AvenirNextLTPro-Bold.otf": "./static/media/AvenirNextLTPro-Bold.711a4eb654bf1139f123.otf",
@@ -18,11 +18,11 @@
     "favicon-16.png": "./favicon-16.png",
     "manifest.json": "./manifest.json",
     "serve.json": "./serve.json",
-    "main.0b67f122.js.map": "./static/js/main.0b67f122.js.map",
-    "874.a4f23057.js.map": "./static/js/874.a4f23057.js.map"
+    "main.b9da2a30.js.map": "./static/js/main.b9da2a30.js.map",
+    "346.41b2c321.js.map": "./static/js/346.41b2c321.js.map"
   },
   "entrypoints": [
-    "static/js/874.a4f23057.js",
-    "static/js/main.0b67f122.js"
+    "static/js/346.41b2c321.js",
+    "static/js/main.b9da2a30.js"
   ]
 }
