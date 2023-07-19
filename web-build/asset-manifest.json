@@ -1,29 +1,27 @@
 {
   "files": {
-    "main.js": "./static/js/main.10478970.js",
-    "static/js/203.17fa682a.js": "./static/js/203.17fa682a.js",
+    "main.js": "./static/js/main.5ee79e35.js",
+    "static/js/623.5ab49caa.js": "./static/js/623.5ab49caa.js",
     "static/media/MaterialCommunityIcons.ttf": "./static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
-    "static/media/wall-culina.jpg": "./static/media/wall-culina.dc354fa0810bd9480ed8.jpg",
-    "static/media/Fontisto.ttf": "./static/media/Fontisto.c0edd68811e0237502fe.ttf",
-    "static/media/Ionicons.ttf": "./static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
-    "static/media/MaterialIcons.ttf": "./static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
-    "static/media/FontAwesome.ttf": "./static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/wall-glow.jpg": "./static/media/wall-glow.dc354fa0810bd9480ed8.jpg",
     "static/media/AntDesign.ttf": "./static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
-    "static/media/Feather.ttf": "./static/media/Feather.0f5d9cede2e831f3fc80.ttf",
-    "static/media/VarelaRound-Regular.woff": "./static/media/VarelaRound-Regular.6cfe696a1cfb40dea260.woff",
-    "static/media/logo-small-light.png": "./static/media/logo-small-light.2b420db167ebc1d82406.png",
+    "static/media/AvenirNextLTPro-Bold.otf": "./static/media/AvenirNextLTPro-Bold.711a4eb654bf1139f123.otf",
+    "static/media/AvenirNextLTPro-Demi.otf": "./static/media/AvenirNextLTPro-Demi.2a0cec709a4166a967dc.otf",
+    "static/media/AvenirNextLTPro-Regular.otf": "./static/media/AvenirNextLTPro-Regular.94f2f163d4b698242fef.otf",
+    "static/media/AvenirNextLTPro-It.otf": "./static/media/AvenirNextLTPro-It.3e062c6caf04ecafa42c.otf",
+    "static/media/logo-glow.png": "./static/media/logo-glow.3bb74266a2d330c43d68.png",
     "favicon.ico": "./favicon.ico",
     "index.html": "./index.html",
-    "static/media/paynow.png": "./static/media/paynow.c9b5960d0592dd95048e.png",
+    "static/media/login-glow.png": "./static/media/login-glow.1dd2ed14987941ab51db.png",
     "favicon-32.png": "./favicon-32.png",
     "favicon-16.png": "./favicon-16.png",
     "manifest.json": "./manifest.json",
     "serve.json": "./serve.json",
-    "main.10478970.js.map": "./static/js/main.10478970.js.map",
-    "203.17fa682a.js.map": "./static/js/203.17fa682a.js.map"
+    "main.5ee79e35.js.map": "./static/js/main.5ee79e35.js.map",
+    "623.5ab49caa.js.map": "./static/js/623.5ab49caa.js.map"
   },
   "entrypoints": [
-    "static/js/203.17fa682a.js",
-    "static/js/main.10478970.js"
+    "static/js/623.5ab49caa.js",
+    "static/js/main.5ee79e35.js"
   ]
 }

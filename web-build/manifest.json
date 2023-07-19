@@ -2,20 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "EPB Bistro",
-  "short_name": "EPB Bistro",
+  "name": "bistro-ext",
+  "short_name": "bistro-ext",
   "start_url": "/?utm_source=web_app_manifest",
-  "orientation": "landscape",
-  "related_applications": [
-    {
-      "platform": "itunes",
-      "id": "com.epbrowser.bistro2"
-    },
-    {
-      "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=com.epbmobile.bistro",
-      "id": "com.epbmobile.bistro"
-    }
-  ],
-  "prefer_related_applications": true
+  "orientation": "portrait"
 }
