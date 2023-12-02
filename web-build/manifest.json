@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "bistro-ext",
-  "short_name": "bistro-ext",
+  "name": "waba-ext",
+  "short_name": "waba-ext",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait"
 }

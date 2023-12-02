@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.js": "./static/js/main.8707d2b0.js",
-    "static/js/937.cb4410a8.js": "./static/js/937.cb4410a8.js",
-    "static/media/MaterialCommunityIcons.ttf": "./static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
-    "static/media/wall-glow.jpg": "./static/media/wall-glow.dc354fa0810bd9480ed8.jpg",
-    "static/media/AntDesign.ttf": "./static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "main.js": "./static/js/main.34315bdc.js",
+    "static/js/872.d53d6427.js": "./static/js/872.d53d6427.js",
+    "static/media/temp1.png": "./static/media/temp1.e7dc856ed29d0e25845b.png",
+    "static/media/wall-fragrance.jpg": "./static/media/wall-fragrance.068925562c2f0ec1affd.jpg",
     "static/media/AvenirNextLTPro-Bold.otf": "./static/media/AvenirNextLTPro-Bold.711a4eb654bf1139f123.otf",
     "static/media/AvenirNextLTPro-Demi.otf": "./static/media/AvenirNextLTPro-Demi.2a0cec709a4166a967dc.otf",
     "static/media/AvenirNextLTPro-Regular.otf": "./static/media/AvenirNextLTPro-Regular.94f2f163d4b698242fef.otf",
     "static/media/AvenirNextLTPro-It.otf": "./static/media/AvenirNextLTPro-It.3e062c6caf04ecafa42c.otf",
-    "static/media/logo-glow.png": "./static/media/logo-glow.dc513e70b7208b960ea7.png",
     "favicon.ico": "./favicon.ico",
+    "static/media/logo-fragrance.png": "./static/media/logo-fragrance.e88445ed568b0e9e081e.png",
     "index.html": "./index.html",
-    "static/media/login-glow.png": "./static/media/login-glow.1dd2ed14987941ab51db.png",
     "favicon-32.png": "./favicon-32.png",
     "favicon-16.png": "./favicon-16.png",
-    "manifest.json": "./manifest.json",
     "serve.json": "./serve.json",
-    "main.8707d2b0.js.map": "./static/js/main.8707d2b0.js.map",
-    "937.cb4410a8.js.map": "./static/js/937.cb4410a8.js.map"
+    "manifest.json": "./manifest.json",
+    "main.34315bdc.js.map": "./static/js/main.34315bdc.js.map",
+    "872.d53d6427.js.map": "./static/js/872.d53d6427.js.map"
   },
   "entrypoints": [
-    "static/js/937.cb4410a8.js",
-    "static/js/main.8707d2b0.js"
+    "static/js/872.d53d6427.js",
+    "static/js/main.34315bdc.js"
   ]
 }
