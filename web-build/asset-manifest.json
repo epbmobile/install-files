@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.js": "./static/js/main.4e43dc46.js",
-    "static/js/872.d53d6427.js": "./static/js/872.d53d6427.js",
-    "static/media/temp1.png": "./static/media/temp1.e7dc856ed29d0e25845b.png",
+    "main.js": "./static/js/main.791604db.js",
+    "static/js/872.4dcaa490.js": "./static/js/872.4dcaa490.js",
     "static/media/wall-fragrance.jpg": "./static/media/wall-fragrance.068925562c2f0ec1affd.jpg",
+    "static/media/temp2.jpg": "./static/media/temp2.a8fe44860ceabfa0536d.jpg",
     "static/media/AvenirNextLTPro-Bold.otf": "./static/media/AvenirNextLTPro-Bold.711a4eb654bf1139f123.otf",
     "static/media/AvenirNextLTPro-Demi.otf": "./static/media/AvenirNextLTPro-Demi.2a0cec709a4166a967dc.otf",
     "static/media/AvenirNextLTPro-Regular.otf": "./static/media/AvenirNextLTPro-Regular.94f2f163d4b698242fef.otf",
@@ -15,11 +15,11 @@
     "favicon-16.png": "./favicon-16.png",
     "serve.json": "./serve.json",
     "manifest.json": "./manifest.json",
-    "main.4e43dc46.js.map": "./static/js/main.4e43dc46.js.map",
-    "872.d53d6427.js.map": "./static/js/872.d53d6427.js.map"
+    "main.791604db.js.map": "./static/js/main.791604db.js.map",
+    "872.4dcaa490.js.map": "./static/js/872.4dcaa490.js.map"
   },
   "entrypoints": [
-    "static/js/872.d53d6427.js",
-    "static/js/main.4e43dc46.js"
+    "static/js/872.4dcaa490.js",
+    "static/js/main.791604db.js"
   ]
 }
