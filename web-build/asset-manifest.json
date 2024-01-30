@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "./static/js/main.e9b2e91d.js",
-    "static/js/464.35ad3117.js": "./static/js/464.35ad3117.js",
+    "main.js": "./static/js/main.bd6973d2.js",
+    "static/js/464.2771a291.js": "./static/js/464.2771a291.js",
     "static/media/MaterialCommunityIcons.ttf": "./static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Fontisto.ttf": "./static/media/Fontisto.c0edd68811e0237502fe.ttf",
     "static/media/Ionicons.ttf": "./static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
@@ -9,7 +9,7 @@
     "static/media/FontAwesome.ttf": "./static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
     "static/media/AntDesign.ttf": "./static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
     "static/media/Feather.ttf": "./static/media/Feather.0f5d9cede2e831f3fc80.ttf",
-    "static/media/VarelaRound-Regular.woff": "./static/media/VarelaRound-Regular.6cfe696a1cfb40dea260.woff",
+    "static/media/VarelaRound-Regular.woff2": "./static/media/VarelaRound-Regular.e10d5fe5332159a9b450.woff2",
     "static/media/logo-small-light.png": "./static/media/logo-small-light.2b420db167ebc1d82406.png",
     "favicon.ico": "./favicon.ico",
     "index.html": "./index.html",
@@ -18,11 +18,11 @@
     "favicon-16.png": "./favicon-16.png",
     "manifest.json": "./manifest.json",
     "serve.json": "./serve.json",
-    "main.e9b2e91d.js.map": "./static/js/main.e9b2e91d.js.map",
-    "464.35ad3117.js.map": "./static/js/464.35ad3117.js.map"
+    "main.bd6973d2.js.map": "./static/js/main.bd6973d2.js.map",
+    "464.2771a291.js.map": "./static/js/464.2771a291.js.map"
   },
   "entrypoints": [
-    "static/js/464.35ad3117.js",
-    "static/js/main.e9b2e91d.js"
+    "static/js/464.2771a291.js",
+    "static/js/main.bd6973d2.js"
   ]
 }
